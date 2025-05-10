@@ -15,7 +15,7 @@ DC540 hacking challenge 0x00009 [Windows CTF].
 
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
-## Join the 801Labs Discord [HERE](https://discord.gg/uRSthurdPY)
+## Join 801Labs Discord [HERE](https://discord.gg/uRSthurdPY)
 
 <br>
 
