@@ -15,6 +15,8 @@ DC540 hacking challenge 0x00009 [Windows CTF].
 
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
+## Join the 801Labs Discord [HERE](https://discord.gg/uRSthurdPY)
+
 <br>
 
 ## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
@@ -54,7 +56,7 @@ You are authorized to use any tools necessary. This may involve patching the bin
 
 NOTE: The Khanty-Mansiysk AI facility is powered by a hybrid x86+AI firmware architecture. This binary may offload payloads to GPUs or unknown co-processors. Stay alert.
 
-Once complete, report your results to The Silent Strategist by sending a private Discord DM to @Admiral_DC801 in the DC801 Discord channel.
+Once complete, report your results to The Silent Strategist by sending a private Discord DM to @admiralpotato_dc801 in the [801Labs Discord](https://discord.gg/uRSthurdPY) server. Want to talk about the callenge? Post about it in the 801Labs `#reverse_engineering` channel.
 
 ## HINT
 
