@@ -2,7 +2,7 @@
 
 ## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 
-<br
+<br>
 
 # dc540-0x00009
 DC540 hacking challenge 0x00009 [Windows CTF].
