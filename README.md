@@ -1,5 +1,9 @@
 ![image](https://github.com/mytechnotalent/dc540-0x00007/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
 
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br
+
 # dc540-0x00009
 DC540 hacking challenge 0x00009 [Windows CTF].
 
@@ -14,12 +18,7 @@ DC540 hacking challenge 0x00009 [Windows CTF].
 <br>
 
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
-
 ## Join 801Labs Discord [HERE](https://discord.gg/uRSthurdPY)
-
-<br>
-
-## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 
 <br>
 
@@ -62,5 +61,7 @@ Once complete, report your results to The Silent Strategist by sending a private
 
 “You will know you have the flag when the grid begins to blink and the AI says: ‘I SEE YOU, DEATH ANGELS…’”
 
-## License
+<br>
+
+# License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
